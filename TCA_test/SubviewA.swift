@@ -6,7 +6,7 @@ struct SubviewA: View {
 	let test: TestObjc
 
 	var body: some View {
-		let _ = print("SubviewB redraw")
+		let _ = print("SubviewA redraw")
 		Text(test.name)
 	}
 }
