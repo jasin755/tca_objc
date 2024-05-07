@@ -18,7 +18,7 @@ struct ContentView: View {
 				}
 
 			if let objc = store.test {
-				SubviewB(test: objc)
+				SubviewA(test: objc)
 			}
 		}
 	}

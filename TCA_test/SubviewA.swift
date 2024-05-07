@@ -1,7 +1,7 @@
 import Foundation
 import SwiftUI
 
-struct SubviewB: View {
+struct SubviewA: View {
 
 	let test: TestObjc
 
